@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on October 12, 2025 at 11:53 am by All in One SEO v4.8.8 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[./index.html]]></loc>
+		<lastmod><![CDATA[2025-03-19T11:56:47+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/sd7nG6DP/Shopify-pics-square-pt2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/j9rkR93x/Shopify-pics-square-2048-50.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/mr01XvD9/Shopify-pics-square-pt2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/spsr3fBH/Shopify-pics-square-pt2-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/d01zTxNP/Shopify-pics-square-2048-50-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/hxywMdsx/Shopify-pics-square-2048-50-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./catalogue/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-19T11:33:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/j9rkR93x/Shopify-pics-square-2048-50.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/7TN2pWW/66.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/PGMTMg19/65.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./themed-campuses/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-19T11:31:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/xtgwnSy3/1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/9HZctjPc/66.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/5hbsC9gc/22.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/PGMTMg19/65.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./add-ons-page-3/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-19T11:25:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/p6TT1Y1V/76.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/5g2WgHnF/74.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/jkqLSYRj/70.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/zHRKLD2H/41.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/QvPpppMm/71.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/qMwv6vdB/43.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/1tZZ9dtH/Shopify-pics-square-2048-50.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./add-ons-page-2/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-18T21:19:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/yFvr8JCN/57.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Q7gW8y37/11.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/BhtdF2z/Shopify-pics-square-pt2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/MkwsKHMT/8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/CKSTZHSx/4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/2149Mb43/Shopify-pics-square-2048-50-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./add-ons-page-1/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-18T16:45:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/XxmvnyMT/63.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/7TN2pWW/66.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Wp2gf9xw/61.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/WvzcNwNs/85.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/BHYFq7SZ/14.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/wN8hVcLm/45.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./base-maps/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-18T16:36:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/qPJkgF4/12.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/j9rkR93x/Shopify-pics-square-2048-50.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Gf64NQ7x/22.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/TxdNVhm0/67.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/vCZWxhyn/83.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/LzyfThy0/53.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/v6PMW6zL/81.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Rk3XCgsp/78.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./our-services/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-18T15:49:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/fzCmPgCZ/Shopify-pics-square-pt2-4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/DfT0krvn/Shopify-pics-square-pt2.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Y46YqVbp/Shopify-pics-square-pt2-3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/0pfc8HxT/Shopify-pics-square-pt2.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/fVPrzH4p/Shopify-pics-square-pt2-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/qLHtTzQw/Shopify-pics-square-pt2.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/84sV1MHp/Shopify-pics-square-pt2-3.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./design-your-virtual-campus/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-18T14:18:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Fk9Dz6Yb/Shopify-pics-square-pt2-6.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/fzq8kBsm/Shopify-pics-square-2048-50-5.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/wFhhHGTQ/Shopify-pics-square-2048-50-6.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/0RvR96PB/Shopify-pics-square-2048-50-7.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/mr01XvD9/Shopify-pics-square-pt2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/qMz6KWZy/Shopify-pics-square-2048-50-8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/21pGg3BK/Shopify-pics-square-pt2-7.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/4w8s7r9t/Shopify-pics-square-pt2-8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/M5hPQ78z/Shopify-pics-square-2048-50-9.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/03/98.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/03/95.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/03/96.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/03/97.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/03/99-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/03/100-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/whTh1BpC/Shopify-pics-square-pt2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/KcmqYFHM/Shopify-pics-square-pt2-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/tTz16CLX/Shopify-pics-square-pt2-6.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./about-virtual-campuses/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-18T13:28:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/FbSskQHR/Shopify-pics-square-2048-50-3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/CKtwDGZG/Shopify-pics-square-pt2-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/Pv7fx8Hn/Shopify-pics-square-pt2-3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/S4sR3DRN/Shopify-pics-square-pt2-4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/bjDqfD8S/Shopify-pics-square-2048-50-4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://i.ibb.co/qY6TNhy6/Shopify-pics-square-pt2-5.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./custom-design/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-11T11:47:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[./contact-us/index.html]]></loc>
+		<lastmod><![CDATA[2025-03-03T16:26:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./our-projects/index.html]]></loc>
+		<lastmod><![CDATA[2025-01-15T17:32:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/13.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/7.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/12.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/11.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/6-e1736944409808.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/14.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/5.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/9.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/10.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/15.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/16.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/17.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/18.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/19.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/22.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/23.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/26.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/24.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/25.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/27.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/21.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/20.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/29.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/30.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/28.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/33.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/35.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/36.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/Untitled-design.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/31.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[./wp-content/uploads/2025/01/32.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>
